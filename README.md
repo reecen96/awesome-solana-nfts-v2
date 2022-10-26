@@ -305,8 +305,3 @@ If you see something missing - please submit a PR 🙏
 - [Blockdaemon](https://blockdaemon.com/marketplace/solana/)
 - [Syndica](https://syndica.io/)
 
-## 🔗 Related Awesome Lists
-
-- [Awsome Solana](https://github.com/paul-schaaf/awesome-solana) ![](https://img.shields.io/github/stars/paul-schaaf/awesome-solana.svg?style=social)
-- [Awesome Serum](https://github.com/project-serum/awesome-serum) ![](https://img.shields.io/github/stars/project-serum/awesome-serum.svg?style=social)
-- [Awesome Solana Gaming](https://github.com/murlokito/awesome-solana-gaming) ![](https://img.shields.io/github/stars/murlokito/awesome-solana-gaming.svg?style=social)
